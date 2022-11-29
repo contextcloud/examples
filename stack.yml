@@ -14,7 +14,6 @@ functions:
   assets_1:
     name: assets
     version: 0.1
-    template: golang
     annotations:
       example: eg
     build_args:
@@ -33,7 +32,6 @@ functions:
   assets_2:
     name: assets
     version: 0.2
-    template: golang
     annotations:
       example: eg
     build_args:
